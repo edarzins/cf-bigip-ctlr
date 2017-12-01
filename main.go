@@ -44,10 +44,10 @@ import (
 
 var (
 	// To be set by build
-	version   string
-	buildInfo string
+	version       string
+	buildInfo     string
 	pythonBaseDir string
-	configFile string
+	configFile    string
 )
 
 func main() {
