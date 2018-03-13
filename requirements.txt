@@ -1,1 +1,1 @@
--e git+https://github.com/f5devcentral/f5-ctlr-agent.git@295f017d8d3ddc8aa38c260309e28e337f12ef92#egg=f5-ctlr-agent
+-e git+https://github.com/edarzins/f5-ctlr-agent.git@4fce575c6eb403cfcea217be51d8a6182232083a#egg=f5-ctlr-agent
